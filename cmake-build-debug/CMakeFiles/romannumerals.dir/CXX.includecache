@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lda49/CLionProjects/romannumerals/assign7.cpp
+convert.h
+/Users/lda49/CLionProjects/romannumerals/convert.h
+
+/Users/lda49/CLionProjects/romannumerals/convert.h
+iostream
+-
+
